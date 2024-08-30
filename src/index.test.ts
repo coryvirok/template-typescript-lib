@@ -1,4 +1,4 @@
-import {sayHello} from '.'
+import { sayHello } from '.'
 
 describe('example test', () => {
   it('should work', () => {
