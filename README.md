@@ -1,6 +1,7 @@
 This is a template for a basic TypeScript library.
 
 **Includes**:
+
 - Code formatting using **Prettier**
 - Linting using **ESLint**
 - Testing using **Jest**
@@ -19,4 +20,3 @@ This is a template for a basic TypeScript library.
 ## Testing
 
 `npm run test`
-
