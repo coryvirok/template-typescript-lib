@@ -1,5 +1,8 @@
+import {sayHello} from '.'
+
 describe('example test', () => {
-  it('should do nothing', () => {
-    expect(true).toBe(true)
+  it('should work', () => {
+    const result = sayHello()
+    expect(result).toEqual('Hello world')
   })
 })
