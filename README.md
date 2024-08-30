@@ -19,3 +19,4 @@ This is a template for a basic TypeScript library.
 ## Testing
 
 `npm run test`
+
